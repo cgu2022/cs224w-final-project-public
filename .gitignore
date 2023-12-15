@@ -1,0 +1,10 @@
+planned_courses.json
+course_metadata.json
+apikey.txt
+*.pkl
+new_course_metadata.json
+*.xlsx
+/GFormer
+**/__pycache__
+*.json
+*.pt

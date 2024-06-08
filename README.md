@@ -2,6 +2,8 @@
 
 William Huang, Chris Gu, and Xing Tan.
 
+Check out the [medium post we wrote here](https://medium.com/@cs224w.chris.will.xing/adaptable-course-recommendation-system-with-the-oncourse-platform-215e82d99a35)!
+
 ## Note
 
 Because [OnCourse](https://oncourse.college) does not publicly release its data, we cannot include the dataset we used in the repo. This was discussed with TA's beforehand [here](https://edstem.org/us/courses/47423/discussion/3613443).
